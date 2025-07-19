@@ -13,9 +13,7 @@ This project uses Python’s Matplotlib `GridSpec` layout to display multiple da
 ##  Dashboard Preview
 
 > Output: `Dashboard_With_Matplotlib.png`
-
-![Dashboard Output](<img width="1800" height="2000" alt="Dashboard_With_Matplotlib" src="https://github.com/user-attachments/assets/3814f7e2-68fa-4709-885d-6182d9abf805" />
-)
+(<img width="1800" height="2000" alt="Dashboard_With_Matplotlib" src="https://github.com/user-attachments/assets/3814f7e2-68fa-4709-885d-6182d9abf805" />)
 
 ---
 
