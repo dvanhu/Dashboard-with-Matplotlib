@@ -19,11 +19,13 @@ This project uses Python’s Matplotlib `GridSpec` layout to display multiple da
 
 ##  Project Structure
 
+```
 dashboard_with_matplotlib/
-├── data.csv # Input dataset
-├── dashboard.py # Python script to create and save dashboard
-├── Dashboard_With_Matplotlib.png # Output dashboard image (auto-generated)
-└── README.md # Project documentation
+├── data.csv                      # Input dataset used for visualization
+├── dashboard.py                  # Main Python script that generates the dashboard
+├── Dashboard_With_Matplotlib.png  # Output image of the generated dashboard (auto-created)
+└── README.md                     # Project documentation and usage guide
+```
 
 
 ---
